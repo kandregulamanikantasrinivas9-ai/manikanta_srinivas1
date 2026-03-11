@@ -2,3 +2,6 @@
     color: darkgreen;
     background-color: aqua;
 }
+p{
+    columns: 2;
+}
